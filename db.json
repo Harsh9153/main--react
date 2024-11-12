@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "8af4",
+      "username": "harsh9153",
+      "email": "Harshdesai600@gmail.com",
+      "password": "123",
+      "cpass": "123"
+    },
+    {
+      "id": "2fcf",
+      "username": "harsh9153455",
+      "email": "Harshdesai6500@gmail.com",
+      "password": "555",
+      "cpass": "555"
+    },
+    {
+      "id": "f88b",
+      "username": "harsh9153455",
+      "email": "Harshdkesai6500@gmail.com",
+      "password": "555",
+      "cpass": "555"
+    },
+    {
+      "id": "3315",
+      "username": "mahendra",
+      "email": "mdesai271@gmail.com",
+      "password": "123",
+      "cpass": "123"
+    }
+  ],
+  "cartData": [
+    {
+      "id": "4775",
+      "quantity": "2",
+      "productId": "3",
+      "userId": "8af4"
+    },
+    {
+      "id": "c36a",
+      "quantity": "2",
+      "productId": "2",
+      "userId": "8af4"
+    }
+  ]
+}
